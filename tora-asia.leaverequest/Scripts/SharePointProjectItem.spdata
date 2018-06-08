@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="jquery-3.0.0.slim.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0.slim.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0.slim.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.0.0-vsdoc.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap-theme.css" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap.css" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap.css.map" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap.min.css" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\css\bootstrap.min.css.map" Target="Scripts\lib\bootstrap-3.3.6-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.eot" Target="Scripts\lib\bootstrap-3.3.6-dist\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.svg" Target="Scripts\lib\bootstrap-3.3.6-dist\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.ttf" Target="Scripts\lib\bootstrap-3.3.6-dist\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff" Target="Scripts\lib\bootstrap-3.3.6-dist\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff2" Target="Scripts\lib\bootstrap-3.3.6-dist\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\js\bootstrap.js" Target="Scripts\lib\bootstrap-3.3.6-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\js\bootstrap.min.js" Target="Scripts\lib\bootstrap-3.3.6-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-3.3.6-dist\js\npm.js" Target="Scripts\lib\bootstrap-3.3.6-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.bs2.css" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.bs2.min.css" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.css" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.js" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.min.css" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\jquery.bs_pagination.min.js" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\MIT_LICENSE" Target="Scripts\lib\bs_pagination-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\el.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\el.min.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\en.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\en.min.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\ru.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\localization\ru.min.js" Target="Scripts\lib\bs_pagination-master\localization\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bs_pagination-master\screenshots\sample1.png" Target="Scripts\lib\bs_pagination-master\screenshots\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.js" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.min.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.min.js" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.structure.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.structure.min.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.theme.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\jquery-ui.theme.min.css" Target="Scripts\lib\jquery-ui-1.11.4\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_diagonals-thick_18_b81900_40x40.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_diagonals-thick_20_666666_40x40.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_flat_10_000000_40x100.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_glass_100_f6f6f6_1x400.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_glass_100_fdf5ce_1x400.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_glass_65_ffffff_1x400.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_gloss-wave_35_f6a828_500x100.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-icons_222222_256x240.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-icons_228ef1_256x240.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-icons_ef8c08_256x240.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-icons_ffd27a_256x240.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-ui-1.11.4\images\ui-icons_ffffff_256x240.png" Target="Scripts\lib\jquery-ui-1.11.4\images\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\sweetalert-master\sweetalert.css" Target="Scripts\lib\sweetalert-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\sweetalert-master\sweetalert.min.js" Target="Scripts\lib\sweetalert-master\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-datetimepicker.css" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-datetimepicker.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-multiselect.css" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-multiselect.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-select.min.css" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-select.min.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\jquery-1.10.2.min.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\knockout-3.4.2.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\knockout-jqAutocomplete.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\knockout.mapping-latest.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\knockout.validation.min.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\moment-with-locales.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\SharePointClient.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="knockout-custom.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="ready.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script0_global.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script1_New.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script2_Home.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script3_History.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script4_ViewForm.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script5_Tasks.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script6_Setting.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="script7_BeginSetting.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="tora-setup.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\moment-weekday-calc.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="script8_myleaveremain.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-grid.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-grid.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-grid.min.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-grid.min.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.min.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.min.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap.min.css" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\css\bootstrap.min.css.map" Target="Scripts\lib\bootstrap-4.1.0-dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.js" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.js.map" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.min.js" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.min.js.map" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.js" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.js.map" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.min.js" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-4.1.0-dist\js\bootstrap.min.js.map" Target="Scripts\lib\bootstrap-4.1.0-dist\js\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\popper.min.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\if-b4-breakpoint.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-brands.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-brands.min.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-regular.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-regular.min.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-solid.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fa-solid.min.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fontawesome-all.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fontawesome-all.min.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fontawesome.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\css\fontawesome.min.css" Target="Scripts\lib\fontawesome 5.0.13\css\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_animated.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_bordered-pulled.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_core.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_fixed-width.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_icons.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_larger.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_list.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_mixins.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_rotated-flipped.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_screen-reader.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_stacked.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\_variables.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\fa-brands.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\fa-regular.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\fa-solid.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\less\fontawesome.less" Target="Scripts\lib\fontawesome 5.0.13\less\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_animated.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_bordered-pulled.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_core.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_fixed-width.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_icons.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_larger.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_list.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_mixins.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_rotated-flipped.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_screen-reader.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_stacked.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\_variables.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\fa-brands.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\fa-regular.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\fa-solid.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\scss\fontawesome.scss" Target="Scripts\lib\fontawesome 5.0.13\scss\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-brands-400.eot" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-brands-400.svg" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-brands-400.ttf" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-brands-400.woff" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-brands-400.woff2" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-regular-400.eot" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-regular-400.svg" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-regular-400.ttf" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-regular-400.woff" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-regular-400.woff2" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-solid-900.eot" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-solid-900.svg" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-solid-900.ttf" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-solid-900.woff" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\fontawesome 5.0.13\webfonts\fa-solid-900.woff2" Target="Scripts\lib\fontawesome 5.0.13\webfonts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\sweetalert2.all.js" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="dic_en.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="dic_th.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-datetimepicker-build.css" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-select-v4.min.css" Target="Scripts\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="lib\bootstrap-select-v4.min.js" Target="Scripts\lib\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

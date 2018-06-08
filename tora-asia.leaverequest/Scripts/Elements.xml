@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap-theme.css" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap-theme.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap-theme.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap.css" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap.css.map" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap.min.css" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\css\bootstrap.min.css.map" Url="Scripts/lib/bootstrap-3.3.6-dist/css/bootstrap.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.eot" Url="Scripts/lib/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eot" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.svg" Url="Scripts/lib/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.svg" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.ttf" Url="Scripts/lib/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.ttf" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff" Url="Scripts/lib/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff2" Url="Scripts/lib/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\js\bootstrap.js" Url="Scripts/lib/bootstrap-3.3.6-dist/js/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\js\bootstrap.min.js" Url="Scripts/lib/bootstrap-3.3.6-dist/js/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-3.3.6-dist\js\npm.js" Url="Scripts/lib/bootstrap-3.3.6-dist/js/npm.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.bs2.css" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.bs2.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.bs2.min.css" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.bs2.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.css" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.js" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.min.css" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\jquery.bs_pagination.min.js" Url="Scripts/lib/bs_pagination-master/jquery.bs_pagination.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\MIT_LICENSE" Url="Scripts/lib/bs_pagination-master/MIT_LICENSE" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\el.js" Url="Scripts/lib/bs_pagination-master/localization/el.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\el.min.js" Url="Scripts/lib/bs_pagination-master/localization/el.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\en.js" Url="Scripts/lib/bs_pagination-master/localization/en.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\en.min.js" Url="Scripts/lib/bs_pagination-master/localization/en.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\ru.js" Url="Scripts/lib/bs_pagination-master/localization/ru.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\localization\ru.min.js" Url="Scripts/lib/bs_pagination-master/localization/ru.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bs_pagination-master\screenshots\sample1.png" Url="Scripts/lib/bs_pagination-master/screenshots/sample1.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.js" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.min.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.min.js" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.structure.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.structure.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.structure.min.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.structure.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.theme.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.theme.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\jquery-ui.theme.min.css" Url="Scripts/lib/jquery-ui-1.11.4/jquery-ui.theme.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_diagonals-thick_18_b81900_40x40.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_diagonals-thick_18_b81900_40x40.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_diagonals-thick_20_666666_40x40.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_diagonals-thick_20_666666_40x40.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_flat_10_000000_40x100.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_flat_10_000000_40x100.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_glass_100_f6f6f6_1x400.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_glass_100_f6f6f6_1x400.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_glass_100_fdf5ce_1x400.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_glass_100_fdf5ce_1x400.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_glass_65_ffffff_1x400.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_glass_65_ffffff_1x400.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_gloss-wave_35_f6a828_500x100.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_gloss-wave_35_f6a828_500x100.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-icons_222222_256x240.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-icons_222222_256x240.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-icons_228ef1_256x240.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-icons_228ef1_256x240.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-icons_ef8c08_256x240.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-icons_ef8c08_256x240.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-icons_ffd27a_256x240.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-icons_ffd27a_256x240.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-ui-1.11.4\images\ui-icons_ffffff_256x240.png" Url="Scripts/lib/jquery-ui-1.11.4/images/ui-icons_ffffff_256x240.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\sweetalert-master\sweetalert.css" Url="Scripts/lib/sweetalert-master/sweetalert.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\sweetalert-master\sweetalert.min.js" Url="Scripts/lib/sweetalert-master/sweetalert.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-datetimepicker.css" Url="Scripts/lib/bootstrap-datetimepicker.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-datetimepicker.js" Url="Scripts/lib/bootstrap-datetimepicker.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-multiselect.css" Url="Scripts/lib/bootstrap-multiselect.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-multiselect.js" Url="Scripts/lib/bootstrap-multiselect.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-select.min.css" Url="Scripts/lib/bootstrap-select.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-select.min.js" Url="Scripts/lib/bootstrap-select.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\jquery-1.10.2.min.js" Url="Scripts/lib/jquery-1.10.2.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\knockout-3.4.2.js" Url="Scripts/lib/knockout-3.4.2.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\knockout-jqAutocomplete.js" Url="Scripts/lib/knockout-jqAutocomplete.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\knockout.mapping-latest.js" Url="Scripts/lib/knockout.mapping-latest.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\knockout.validation.min.js" Url="Scripts/lib/knockout.validation.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\moment-with-locales.js" Url="Scripts/lib/moment-with-locales.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\SharePointClient.js" Url="Scripts/lib/SharePointClient.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout-custom.js" Url="Scripts/knockout-custom.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\ready.js" Url="Scripts/ready.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script0_global.js" Url="Scripts/script0_global.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script1_New.js" Url="Scripts/script1_New.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script2_Home.js" Url="Scripts/script2_Home.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script3_History.js" Url="Scripts/script3_History.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script4_ViewForm.js" Url="Scripts/script4_ViewForm.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script5_Tasks.js" Url="Scripts/script5_Tasks.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script6_Setting.js" Url="Scripts/script6_Setting.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script7_BeginSetting.js" Url="Scripts/script7_BeginSetting.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\tora-setup.js" Url="Scripts/tora-setup.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\moment-weekday-calc.js" Url="Scripts/lib/moment-weekday-calc.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\script8_myleaveremain.js" Url="Scripts/script8_myleaveremain.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-grid.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-grid.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-grid.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-grid.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-grid.min.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-grid.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-grid.min.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-grid.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-reboot.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-reboot.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.min.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-reboot.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap-reboot.min.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap-reboot.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap.min.css" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\css\bootstrap.min.css.map" Url="Scripts/lib/bootstrap-4.1.0-dist/css/bootstrap.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.js" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.bundle.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.js.map" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.bundle.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.min.js" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.bundle.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.bundle.min.js.map" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.bundle.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.js" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.js.map" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.min.js" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-4.1.0-dist\js\bootstrap.min.js.map" Url="Scripts/lib/bootstrap-4.1.0-dist/js/bootstrap.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\popper.min.js" Url="Scripts/lib/popper.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\if-b4-breakpoint.js" Url="Scripts/lib/if-b4-breakpoint.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-brands.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-brands.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-brands.min.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-brands.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-regular.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-regular.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-regular.min.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-regular.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-solid.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-solid.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fa-solid.min.css" Url="Scripts/lib/fontawesome 5.0.13/css/fa-solid.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fontawesome-all.css" Url="Scripts/lib/fontawesome 5.0.13/css/fontawesome-all.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fontawesome-all.min.css" Url="Scripts/lib/fontawesome 5.0.13/css/fontawesome-all.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fontawesome.css" Url="Scripts/lib/fontawesome 5.0.13/css/fontawesome.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\css\fontawesome.min.css" Url="Scripts/lib/fontawesome 5.0.13/css/fontawesome.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_animated.less" Url="Scripts/lib/fontawesome 5.0.13/less/_animated.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_bordered-pulled.less" Url="Scripts/lib/fontawesome 5.0.13/less/_bordered-pulled.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_core.less" Url="Scripts/lib/fontawesome 5.0.13/less/_core.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_fixed-width.less" Url="Scripts/lib/fontawesome 5.0.13/less/_fixed-width.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_icons.less" Url="Scripts/lib/fontawesome 5.0.13/less/_icons.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_larger.less" Url="Scripts/lib/fontawesome 5.0.13/less/_larger.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_list.less" Url="Scripts/lib/fontawesome 5.0.13/less/_list.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_mixins.less" Url="Scripts/lib/fontawesome 5.0.13/less/_mixins.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_rotated-flipped.less" Url="Scripts/lib/fontawesome 5.0.13/less/_rotated-flipped.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_screen-reader.less" Url="Scripts/lib/fontawesome 5.0.13/less/_screen-reader.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_stacked.less" Url="Scripts/lib/fontawesome 5.0.13/less/_stacked.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\_variables.less" Url="Scripts/lib/fontawesome 5.0.13/less/_variables.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\fa-brands.less" Url="Scripts/lib/fontawesome 5.0.13/less/fa-brands.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\fa-regular.less" Url="Scripts/lib/fontawesome 5.0.13/less/fa-regular.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\fa-solid.less" Url="Scripts/lib/fontawesome 5.0.13/less/fa-solid.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\less\fontawesome.less" Url="Scripts/lib/fontawesome 5.0.13/less/fontawesome.less" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_animated.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_animated.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_bordered-pulled.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_bordered-pulled.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_core.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_core.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_fixed-width.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_fixed-width.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_icons.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_icons.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_larger.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_larger.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_list.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_list.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_mixins.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_rotated-flipped.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_rotated-flipped.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_screen-reader.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_screen-reader.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_stacked.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_stacked.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\_variables.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/_variables.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\fa-brands.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/fa-brands.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\fa-regular.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/fa-regular.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\fa-solid.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/fa-solid.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\scss\fontawesome.scss" Url="Scripts/lib/fontawesome 5.0.13/scss/fontawesome.scss" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-brands-400.eot" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-brands-400.eot" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-brands-400.svg" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-brands-400.svg" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-brands-400.ttf" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-brands-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-brands-400.woff" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-brands-400.woff" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-brands-400.woff2" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-brands-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-regular-400.eot" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-regular-400.eot" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-regular-400.svg" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-regular-400.svg" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-regular-400.ttf" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-regular-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-regular-400.woff" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-regular-400.woff" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-regular-400.woff2" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-regular-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-solid-900.eot" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-solid-900.eot" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-solid-900.svg" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-solid-900.svg" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-solid-900.ttf" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-solid-900.ttf" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-solid-900.woff" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-solid-900.woff" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\fontawesome 5.0.13\webfonts\fa-solid-900.woff2" Url="Scripts/lib/fontawesome 5.0.13/webfonts/fa-solid-900.woff2" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\sweetalert2.all.js" Url="Scripts/lib/sweetalert2.all.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\dic_en.js" Url="Scripts/dic_en.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\dic_th.js" Url="Scripts/dic_th.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-datetimepicker-build.css" Url="Scripts/lib/bootstrap-datetimepicker-build.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-select-v4.min.css" Url="Scripts/lib/bootstrap-select-v4.min.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\lib\bootstrap-select-v4.min.js" Url="Scripts/lib/bootstrap-select-v4.min.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

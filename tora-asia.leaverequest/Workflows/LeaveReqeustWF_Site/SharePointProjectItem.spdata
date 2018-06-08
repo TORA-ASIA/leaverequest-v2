@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Workflow4App" DefaultFile="Workflow.xaml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Workflow.xaml" Target="LeaveReqeustWF_Site\" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="WorkflowAssociation.EventSourceGUID" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowAssociationItemAdded.Enabled" Value="false" />
+    <ExtensionDataItem Key="WorkflowAssociationItemUpdated.Enabled" Value="false" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Description" Value="LeaveReqeustWF_Site - WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.DisplayName" Value="LeaveReqeustWF_Site - WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Enabled" Value="true" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.EventSourceGUID" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.EventType" Value="WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.HistoryListId" Value="" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Id" Value="7621c23e-e8cb-41c9-9184-93f310221238" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.TaskListId" Value="" />
+    <ExtensionDataItem Key="WorkflowDefinition.Description" Value="My 'LeaveReqeustWF_Site Workflow" />
+    <ExtensionDataItem Key="WorkflowDefinition.DisplayName" Value="LeaveReqeustWF_Site" />
+    <ExtensionDataItem Key="WorkflowDefinition.Id" Value="66af5f5d-b989-4181-a0a2-4c8e98d19dcc" />
+    <ExtensionDataItem Key="WorkflowDefinition.RestrictAssociationToId" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowDefinition.RestrictAssociationToType" Value="Site" />
+  </ExtensionData>
+</ProjectItem>
